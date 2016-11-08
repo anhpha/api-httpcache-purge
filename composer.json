@@ -1,6 +1,6 @@
 {
     "name": "anhpha/api-httpcache-purge",
-    "description": "This is a provider for silex 2.0 using lexik jwt authentication provider class to create a encoder",
+    "description": "This is a provider for silex 2.0 add purge to cache",
     "type": "library",
     "version": "1.0.0",
     "require": {

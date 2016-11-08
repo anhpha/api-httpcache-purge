@@ -1,0 +1,22 @@
+{
+    "name": "anhpha/api-httpcache-purge",
+    "description": "This is a provider for silex 2.0 using lexik jwt authentication provider class to create a encoder",
+    "type": "library",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.5.9",
+        "pimple/pimple": "~3.0",
+        "silex/silex": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Anh Pha",
+            "email": "vvap2004@yahoo.com"
+        }
+    ],
+    "autoload" : {
+        "psr-0": {
+            "Anhpha": "/",
+        }
+    }
+}
